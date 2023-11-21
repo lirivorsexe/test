@@ -1,0 +1,5 @@
+[2021-12-18 15:04:37] User id858692387 was authorized as MAIN ADMIN
+[2021-12-18 15:04:37] Updating usernames is turn off
+[2021-12-18 15:04:37] Updating activity is turn off
+[2021-12-18 15:04:37] @kozan_ostra_communication_bot has been started
+==============================================================================
